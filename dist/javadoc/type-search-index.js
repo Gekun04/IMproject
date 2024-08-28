@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"improjecr","l":"checkout"},{"p":"improjecr","l":"IMprojecr"},{"p":"improjecr","l":"login"},{"p":"improjecr","l":"mainwindow"},{"p":"improjecr","l":"majohadatabase"},{"p":"improjecr","l":"Orderform"},{"p":"improjecr","l":"viewmenu"}];updateSearchResults();
